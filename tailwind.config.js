@@ -13,6 +13,9 @@ module.exports = {
         veryPaleRed: 'hsl(13, 100%, 96%)',
         veryLightGray: 'hsl(0, 0%, 98%)',
       },
+      backgroundImage :{
+        "contact_section" : "linear-gradient(to right bottom, rgba(0, 189, 0, 0.168), rgba(1, 87, 1, 0.612)), url('../images/illustration3.jpg')",
+      }
     },
   },
   plugins: [],
